@@ -35,7 +35,7 @@
     #   echo "Hello, ${config.home.username}!"
     # '')
     zsh
-    git gh
+    git
     gnupg
     curl
     wget

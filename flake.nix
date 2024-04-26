@@ -1,5 +1,5 @@
 {
-  description = "Home Manager configuration of nemo";
+  description = "Home Manager configuration of Yi";
 
   inputs = {
     # Specify the source of Home Manager and Nixpkgs.
